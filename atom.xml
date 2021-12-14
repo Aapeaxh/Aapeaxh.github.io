@@ -3,11 +3,11 @@
   <title>HANN Planet</title>
   
   
-  <link href="https://aapeaxh.github.io/project/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://aapeaxh.github.io/project/"/>
+  <link href="http://example.com/"/>
   <updated>2021-12-14T00:02:37.325Z</updated>
-  <id>https://aapeaxh.github.io/project/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>HANN</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>About Me</title>
-    <link href="https://aapeaxh.github.io/project/2021/12/13/hello-world/"/>
-    <id>https://aapeaxh.github.io/project/2021/12/13/hello-world/</id>
+    <link href="http://example.com/2021/12/13/hello-world/"/>
+    <id>http://example.com/2021/12/13/hello-world/</id>
     <published>2021-12-13T21:05:41.931Z</published>
     <updated>2021-12-14T00:02:37.325Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Life Expectancy</title>
-    <link href="https://aapeaxh.github.io/project/2021/10/30/My-New-Post/"/>
-    <id>https://aapeaxh.github.io/project/2021/10/30/My-New-Post/</id>
+    <link href="http://example.com/2021/10/30/My-New-Post/"/>
+    <id>http://example.com/2021/10/30/My-New-Post/</id>
     <published>2021-10-30T22:31:34.000Z</published>
     <updated>2021-12-14T00:02:35.243Z</updated>
     
@@ -56,7 +56,7 @@
     
     
     
-    <category term="life expectancy" scheme="https://aapeaxh.github.io/project/tags/life-expectancy/"/>
+    <category term="life expectancy" scheme="http://example.com/tags/life-expectancy/"/>
     
   </entry>
   
