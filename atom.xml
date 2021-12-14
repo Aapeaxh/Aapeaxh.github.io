@@ -38,6 +38,29 @@
   </entry>
   
   <entry>
+    <title>Consumer Insight</title>
+    <link href="http://example.com/2021/11/03/consumer/"/>
+    <id>http://example.com/2021/11/03/consumer/</id>
+    <published>2021-11-03T21:03:50.000Z</published>
+    <updated>2021-12-14T01:06:43.205Z</updated>
+    
+    <content type="html"><![CDATA[<p>Investigation on Chinese Consumer Insights</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Investigation on Chinese Consumer Insights&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="HANN" scheme="http://example.com/tags/HANN/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Life Expectancy</title>
     <link href="http://example.com/2021/10/30/My-New-Post/"/>
     <id>http://example.com/2021/10/30/My-New-Post/</id>
