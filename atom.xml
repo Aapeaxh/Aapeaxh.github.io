@@ -6,7 +6,7 @@
   <link href="https://aapeaxh.github.io/project/atom.xml" rel="self"/>
   
   <link href="https://aapeaxh.github.io/project/"/>
-  <updated>2021-12-13T23:35:21.641Z</updated>
+  <updated>2021-12-14T00:02:37.325Z</updated>
   <id>https://aapeaxh.github.io/project/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://aapeaxh.github.io/project/2021/12/13/hello-world/"/>
     <id>https://aapeaxh.github.io/project/2021/12/13/hello-world/</id>
     <published>2021-12-13T21:05:41.931Z</published>
-    <updated>2021-12-13T23:35:21.641Z</updated>
+    <updated>2021-12-14T00:02:37.325Z</updated>
     
     <content type="html"><![CDATA[<p>A Marketing Researcher with Data Analysis background and interests in Television Industry.</p>]]></content>
     
@@ -34,6 +34,29 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>Life Expectancy</title>
+    <link href="https://aapeaxh.github.io/project/2021/10/30/My-New-Post/"/>
+    <id>https://aapeaxh.github.io/project/2021/10/30/My-New-Post/</id>
+    <published>2021-10-30T22:31:34.000Z</published>
+    <updated>2021-12-14T00:02:35.243Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is a data analysis report on Life Expectancy based on …</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;This is a data analysis report on Life Expectancy based on …&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="life expectancy" scheme="https://aapeaxh.github.io/project/tags/life-expectancy/"/>
     
   </entry>
   
