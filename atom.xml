@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-04T06:58:51.126Z</updated>
+  <updated>2022-01-04T07:27:12.014Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2022 To-do-list</title>
+    <link href="http://example.com/2022/01/01/2022/"/>
+    <id>http://example.com/2022/01/01/2022/</id>
+    <published>2022-01-01T08:09:30.000Z</published>
+    <updated>2022-01-04T07:27:12.014Z</updated>
+    
+    <content type="html"><![CDATA[<p>Happy New Year!<br>Can’t imagine it’s 2022 already.<br>Here’s my current 2022 To-do-list.</p><hr><ol><li>Learning Spanish</li></ol><p>So far, much fun! I hope one day hope I can communicate with my Spanish friends in simple Spanish next time we meet.</p><ol start="2"><li>Taking extra courses on edX</li></ol><p>I learned some courses on Python on Coursera during the quarantine and am on my way to exploring this platform now. I’m taking classes like Collaborative Data Science for Healthcare and Machine Learning with Python from Linear Models to Deep Learning.<br>I hope that could make up for some gap between other students who began learning CS since undergraduate. My robust mathematics knowledge truly helped me a lot these months. Maybe that’s why my high school forced us to learn calculus and participate in Mathematical Olympiad. Glad my effort finally paid off after six years.</p><p><img src="images/22/edx.jpg" alt="edX" loading="lazy" class="φbp"></p><ol start="3"><li>Life-time friend: Dancing and singing</li></ol><p>It’s a bit pity that I didn’t get so much time to learn new songs or dances last semester because I need to devote more time to my schoolwork. It’s great to have time for them during the winter break.</p><ol start="4"><li>Volunteer: Help more people like before</li></ol><p>I applied for the  Massachusetts General Hospital volunteer. Hope I could be admitted sooner or later.</p><hr><p><em>Wishlist</em></p><ol><li><p>Hope my mom can recover soon. It’s lucky to have Harvard medical students as my roommates, they truly helped me a lot.</p></li><li><p>Hope there will be good news that I’m admitted in the near future. I genuinely want to study further :(</p></li></ol><hr><p>Most importantly: always love yourself and be kind to others.</p><p><em>Adios</em></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Happy New Year!&lt;br&gt;
+Can’t imagine it’s 2022 already.&lt;br&gt;
+Here’s my current 2022 To-do-list.&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;Learning Spanish&lt;/li&gt;
+&lt;/ol&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="HANN" scheme="http://example.com/tags/HANN/"/>
+    
+  </entry>
   
   <entry>
     <title>HANN&#39;s Daily Life</title>
@@ -30,29 +58,6 @@
       
     <summary type="html">&lt;h2 id=&quot;volunteer&quot;&gt;Volunteer&lt;a title=&quot;#volunteer&quot; href=&quot;#volunteer&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;I love participating in voluntary work in my spare life. I </summary>
-      
-    
-    
-    
-    
-    <category term="HANN" scheme="http://example.com/tags/HANN/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Biography of HANN</title>
-    <link href="http://example.com/2021/12/10/aboutme/"/>
-    <id>http://example.com/2021/12/10/aboutme/</id>
-    <published>2021-12-10T06:13:55.000Z</published>
-    <updated>2021-12-23T09:28:55.381Z</updated>
-    
-    <content type="html"><![CDATA[<p>HANN - A Marketing Researcher with Data Analysis background and interests in Television Industry.</p><p>Han combines academic training in television with professional experience in the media industry to launch a future career in entertainment management.<br>Han received a bachelor’s degree from the Communication University of China, majoring in broadcast television. She acquired solid academic knowledge through courses like TV Program Planning, News Theory, and Communication Research Methods during her undergraduate studies.<br><img src="images/aboutme/cuc.jpg" alt="CUC" loading="lazy"></p><p>She also studied at the University of California, Santa Barbara, as a communication and media exchange student during her Sophomore year.<br><img src="images/aboutme/sb.jpg" alt="Santa Barbara" loading="lazy"></p><p>In 2019, Han joined Sony Pictures Television in Beijing as a development intern. She engaged in the China-Russia cooperated TV project Chosen II, contributed to the screenwriting and Chinese-English translation; helped it reach 629,000 online views. She analyzed several ongoing and upcoming TV projects and conducted research on trending topics, including PTSD, the Esports industry, and young adults’ attitudes towards love.<br><img src="images/aboutme/sony.jpg" alt="Sony" loading="lazy"></p><p>Earlier, Han was a business development intern at Tencent Technology Enterprise (Beijing). She took charge of the Internet celebrity business development for the QQ Kandian platform, reaching more than 1,000 influencers from TikTok, Kwai, and Weibo. She collaborated on several top business projects, independently hosting 16 up-to-date discussions and inspiring celebrities to create more than 1,300 original social media posts.<br>Han also worked as a freelance promotion planner to help companies including RED, Youku, and FaceU successfully publicize media products and television shows.<br><img src="images/aboutme/cuc2.jpg" alt="CUC" loading="lazy"></p><p>Han is currently pursuing a master’s degree in marketing communication research at Boston University. Besides rich knowledge in marketing communication, she is still pursuing a certificate in data analysis from the Computer Science Department. Understanding coding rules then applying them to real-world problems could be challenging. Still, she successfully learned methods like implementing regression models to investigate complicated social issues like mental health. She is also qualified to measure how much one aspect like alcohol or family heredity affects depression and then evades it through strategic recognition.<br>When chasing academia, she is also concerned about the unpredictable market in authentic situations. During her work as a marketing internship in Bilibili technology company, she analyzed influencers’ content on Bilibili, managed and supervised the quality, time, and cost of projects. She also developed outstanding skills in communication with influencers and clients, who comes from Gaming (Honor of Kings, Fantasy Westward Journey), Cosmetics (Elizabeth Arden, La Mer, and Innisfree) to Technology (Dell, Intel, and MAO KING).<br><img src="images/aboutme/b3.jpg" alt="Han in Bilibili" loading="lazy"><br>(Han starred in Bilibili 2021 social recruitment promotion video, full video:<a href="https://www.bilibili.com/video/BV1cT4y1Z79K?spm_id_from=333.999.0.0">https://www.bilibili.com/video/BV1cT4y1Z79K?spm_id_from=333.999.0.0</a>)</p><p>Now, Han is looking forward to a future path in both academia and industry.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;HANN - A Marketing Researcher with Data Analysis background and interests in Television Industry.&lt;/p&gt;
-&lt;p&gt;Han combines academic training i</summary>
       
     
     
@@ -129,6 +134,29 @@
     
     
     <category term="disney+" scheme="http://example.com/tags/disney/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Biography of HANN</title>
+    <link href="http://example.com/2021/09/10/aboutme/"/>
+    <id>http://example.com/2021/09/10/aboutme/</id>
+    <published>2021-09-10T05:13:55.000Z</published>
+    <updated>2022-01-04T07:28:24.667Z</updated>
+    
+    <content type="html"><![CDATA[<p>HANN - A Marketing Researcher with Data Analysis background and interests in Television Industry.</p><p>Han combines academic training in television with professional experience in the media industry to launch a future career in entertainment management.<br>Han received a bachelor’s degree from the Communication University of China, majoring in broadcast television. She acquired solid academic knowledge through courses like TV Program Planning, News Theory, and Communication Research Methods during her undergraduate studies.<br><img src="images/aboutme/cuc.jpg" alt="CUC" loading="lazy"></p><p>She also studied at the University of California, Santa Barbara, as a communication and media exchange student during her Sophomore year.<br><img src="images/aboutme/sb.jpg" alt="Santa Barbara" loading="lazy"></p><p>In 2019, Han joined Sony Pictures Television in Beijing as a development intern. She engaged in the China-Russia cooperated TV project Chosen II, contributed to the screenwriting and Chinese-English translation; helped it reach 629,000 online views. She analyzed several ongoing and upcoming TV projects and conducted research on trending topics, including PTSD, the Esports industry, and young adults’ attitudes towards love.<br><img src="images/aboutme/sony.jpg" alt="Sony" loading="lazy"></p><p>Earlier, Han was a business development intern at Tencent Technology Enterprise (Beijing). She took charge of the Internet celebrity business development for the QQ Kandian platform, reaching more than 1,000 influencers from TikTok, Kwai, and Weibo. She collaborated on several top business projects, independently hosting 16 up-to-date discussions and inspiring celebrities to create more than 1,300 original social media posts.<br>Han also worked as a freelance promotion planner to help companies including RED, Youku, and FaceU successfully publicize media products and television shows.<br><img src="images/aboutme/cuc2.jpg" alt="CUC" loading="lazy"></p><p>Han is currently pursuing a master’s degree in marketing communication research at Boston University. Besides rich knowledge in marketing communication, she is still pursuing a certificate in data analysis from the Computer Science Department. Understanding coding rules then applying them to real-world problems could be challenging. Still, she successfully learned methods like implementing regression models to investigate complicated social issues like mental health. She is also qualified to measure how much one aspect like alcohol or family heredity affects depression and then evades it through strategic recognition.<br>When chasing academia, she is also concerned about the unpredictable market in authentic situations. During her work as a marketing internship in Bilibili technology company, she analyzed influencers’ content on Bilibili, managed and supervised the quality, time, and cost of projects. She also developed outstanding skills in communication with influencers and clients, who comes from Gaming (Honor of Kings, Fantasy Westward Journey), Cosmetics (Elizabeth Arden, La Mer, and Innisfree) to Technology (Dell, Intel, and MAO KING).<br><img src="images/aboutme/b3.jpg" alt="Han in Bilibili" loading="lazy"><br>(Han starred in Bilibili 2021 social recruitment promotion video, full video:<a href="https://www.bilibili.com/video/BV1cT4y1Z79K?spm_id_from=333.999.0.0">https://www.bilibili.com/video/BV1cT4y1Z79K?spm_id_from=333.999.0.0</a>)</p><p>Now, Han is looking forward to a future path in both academia and industry.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;HANN - A Marketing Researcher with Data Analysis background and interests in Television Industry.&lt;/p&gt;
+&lt;p&gt;Han combines academic training i</summary>
+      
+    
+    
+    
+    
+    <category term="HANN" scheme="http://example.com/tags/HANN/"/>
     
   </entry>
   
